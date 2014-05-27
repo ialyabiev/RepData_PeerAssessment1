@@ -1,7 +1,7 @@
 .Rproj.user
 .Rhistory
 .RData
-data\
+data/
 *.txt
 *.bak
 *.Rproj
